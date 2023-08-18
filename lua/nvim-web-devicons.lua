@@ -794,10 +794,10 @@ local icons_by_file_extension = {
     name = "Html",
   },
   ["huff"] = {
-  icon = "󰡘",
-  color = "#4242c7",
-  cterm_color = "63",
-  name = "Huff"
+    icon = "󰡘",
+    color = "#4242c7",
+    cterm_color = "63",
+    name = "Huff"
   },
   ["hxx"] = {
     icon = "",
